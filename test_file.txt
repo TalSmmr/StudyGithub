@@ -1,3 +1,5 @@
 This is a test file
 
 This will occur a conflict between branches
+and another row was added (change-1)
+
