@@ -6,3 +6,5 @@ and another row was added (change-1)
 another row change-2 same branch (1)
 
 another change to check commit changes
+
+test test test
